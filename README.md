@@ -1,1 +1,1 @@
-# Java-Project
+# Book inventory management system
